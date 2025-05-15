@@ -118,7 +118,8 @@ Krum selected model from Client 3
 Test Accuracy: 86.75%
 ```
 
-#📚 References
+##📚 References
+
 -NSL-KDD Dataset
 
 -Krum: Byzantine-Robust Aggregation
