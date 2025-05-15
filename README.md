@@ -119,9 +119,9 @@ Test Accuracy: 86.75%
 ```
 
 #📚 References
-NSL-KDD Dataset
-Krum: Byzantine-Robust Aggregation
-Federated Learning – Google AI Blog
+-NSL-KDD Dataset
+-Krum: Byzantine-Robust Aggregation
+-Federated Learning – Google AI Blog
 
 
 
