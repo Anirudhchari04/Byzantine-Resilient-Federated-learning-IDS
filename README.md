@@ -116,6 +116,12 @@ Client 4: Local training complete
 Client 5: Local training complete
 Krum selected model from Client 3
 Test Accuracy: 86.75%
+```
+
+#📚 References
+NSL-KDD Dataset
+Krum: Byzantine-Robust Aggregation
+Federated Learning – Google AI Blog
 
 
 
