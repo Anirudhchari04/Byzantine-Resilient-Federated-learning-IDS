@@ -22,7 +22,6 @@ It contains labeled network traffic: normal, dos, probe, r2l, and u2r.
 - One-hot encoding for categorical features
 - Standardization of continuous features  
 - Label encoding for target classes
-
 ## 🔧 Configurable Parameters
 ```python
 NUM_CLIENTS = 5              # Total number of simulated clients
@@ -31,6 +30,7 @@ GLOBAL_ROUNDS = 10           # Number of communication rounds
 EPOCHS = 5                   # Number of local training epochs
 BATCH_SIZE = 32
 LEARNING_RATE = 0.001
+```
 
 
 # 🧠 How It Works – Step by Step
@@ -116,3 +116,8 @@ Client 4: Local training complete
 Client 5: Local training complete
 Krum selected model from Client 3
 Test Accuracy: 86.75%
+
+
+
+
+
